@@ -1,1 +1,1 @@
-import * from transformer_ae
+from audio_local_transformers.transformer_ae import *
